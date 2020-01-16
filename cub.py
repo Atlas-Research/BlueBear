@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 #from datetime import date
 #from bs4 import BeautifulSoup
 
-#url = "https://simple.wikipedia.org/wiki/List_of_countries"
+#url = ""
 
 #res = requests.get(url)
 #soup = BeautifulSoup(res.text,"lxml")
